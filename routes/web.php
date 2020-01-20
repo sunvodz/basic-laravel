@@ -9,3 +9,4 @@ Route::get('users', function () {
 Route::get('showname', function () {
     return 'Hello Sunvodz !';
 });
+Route::get('welcome/name','HelloController@showHello');

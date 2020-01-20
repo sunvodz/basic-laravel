@@ -5,6 +5,10 @@
 3.php artisan serve
 4.http://127.0.0.1:8000
 
+=====================================
+create controller
+1.php artisan make:controller HelloController
+
 ```
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
